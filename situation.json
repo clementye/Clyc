@@ -1,0 +1,812 @@
+
+[
+{
+		"id": "0",
+        "text":"Nous sommes à la Renaissance en l’an 1589, Prédiction est une unité test de l’ordre des chevaliers de la table carrée au service du Duc François De Burger. Leur mission : protéger le peuple des crimes, du moins en surface.",
+        "choix":[
+                    {
+                        "text":"Suivant",
+                        "nextText":"1"
+                    }
+                ],
+		"image":"/images/0.jpg"
+
+},
+{
+        "id": "1",
+        "text":"Mais sous la surface, cette organisation agit dans l’ombre pour le bien d’un seul homme : François de Burger. Les chevaliers reçoivent leurs ordres en fonctions des prédictions de trois sorcières, qui ont des visions et qui sont utilisé comme des objets au service du duché. Ces trois sorcières sont emprisonnées au cœur du château du duc.",
+        "choix":[
+                    {
+                        "text":"Suivant",
+                        "nextText":"2"
+                    }
+                ],
+		"image":"/images/1.jpg"
+},
+{
+        "id": "2",
+        "text":"Vous incarnez le jeune et prometteur chevalier Théodore De Bèze. Un homme fort et intelligent bien que meurtri par sa séparation avec sa fiancée. ",
+        "choix":[
+                    {
+                        "text":"Suivant",
+                        "nextText":"3"
+                    }
+                ],
+		"image":"/images/2.jpg"
+},
+{
+        "id": "3",
+        "text":"L'église, qui eut vent de l’existence du nouveau système du Duc envoi son émissaire Marcus De Tullius au duché pour inspecter le système dont vous êtes à la tête. La corruption d’évêques permettait pourtant jusqu’alors de cacher cette institution qui existe depuis déjà six années maintenant.",
+        "choix":[
+                    {
+                        "text":"Suivant",
+                        "nextText":"4"
+                    }
+                ],
+		"image":"/images/3.jpg"
+},
+{
+        "id": "4",
+        "text":"Marcus vous demande où se trouve les trois sorcières afin de vérifier l’utilité et l’exactitude des oracles donnée. Tandis que celui-ci rencontre enfin les sorcières, votre nom est prononcé par Catherine, la sorcière la plus puissante, vous accusant du meurtre d’un certain Pierre ainsi que d’une rébellion pour faire chuter le duc François De Burger. Vous devez agir !",
+        "choix":[
+					{
+                        "text":"Fuir",
+                        "nextText":"5"
+                     },
+                     {
+                        "text":"Se rendre",
+                        "nextText":"34",
+						"deshonneur":true
+                     },
+					 {
+                        "text":"S'expliquer",
+                        "nextText":"35",
+						"rationnel": true
+                     }
+                ],
+		"image":"/images/4.jpg"
+},
+{
+		"id" : "5",
+		"text":"Vous n’avez que quelques minutes pour prendre la fuite, cependant vos camarades se dressent devant vous. Ils vous métrisent et vous emmènent sur la place. La souffrance de la trahison de vos compagnons est immense, mais alors qu’impuissant vous regardez votre avenir se briser, vos anciens camarades s’approchent de vous, arme à la main, vous êtes alors marqué au fer rouge comme traître. Des chevaux sont appelés. Vous voyez déjà le supplice de l’écartèlement se préparer devant vous. Humilié et pris d’une rage folle, vous réussissez à vous s’échapper dans un moment d’inattention. Mais où fuir ? ",
+        "choix":[
+                     {
+                        "text":"Se rendre chez vos parents",
+                        "nextText":"6"
+                     },
+					  {
+                        "text":"Se rendre dans la fôret ",
+                        "nextText":"39"
+                     },
+                     {
+                        "text":"Se cacher dans le château ",
+                        "nextText":"34",
+						"deshonneur":true
+                     }
+                ],
+		"image":"/images/5.jpg"
+},
+{
+        "id" : "6",
+		"text":"Après avoir fui, vous vous réfugiez chez vos parents. Vous apprenez de la bouche de vos parents que votre fiancée, Andréa De Alciati, n’était pas celle qui vous avait envoyé une lettre de rupture. Elle n’avait donc pas cherché d’elle-même à s’éloigner de vous. Tout n’était qu’une machination de la famille de votre fiancée. Mais alors que lui est-il donc arrivé ? Tant de questions sans réponse, mais vous n’avez pas le temps, vous êtes recherché et vous devez vite fuir ceux qui vous poursuivent. C'est pourquoi vous cherchez une personne capable de répondre à toutes vos questions.",
+        "choix":[
+                     {
+                        "text":"Suivant.",
+                        "nextText":"7"
+                    }
+                ],
+		"image":"/images/6.jpg"
+
+},
+{
+        "id" : "7",
+		"text":"C'est alors que vous entendez parler d’une femme étrange, une sorcière dit-on. Une femme folle qui se ferait appeler Docteur De la Rose. On dit que cette femme étrange aurait été impliqué avec le Duc De Burger autrefois. À la recherche de cette étrange femme, vous parcourez mont et tempête et alors que vous êtes à bout de souffle, perdu dans une forêt, vous apercevez une petite cabane, isolé au milieu d’une petite clairière entouré de la forêt. ",
+        "choix":[
+                     {
+                        "text":"Suivant",
+                        "nextText":"8"
+                     }
+                ],
+		"image":"/images/7.jpg"
+
+},
+{
+		
+        "id": "8",
+	    "text":"Devant vous apparaît une étrange vieille femme et vous savez en un regard qu’elle est celle que vous cherchez. Elle vous ouvre les yeux et pour la première fois depuis six années, vous doutez du système qui vous gouvernait depuis maintenant si longtemps. La seule personne qui pourrait vous innocenter, la seule personne de qui vous pourriez apprendre la réelle vérité, n’est autre que la personne qui vous a mis dans cette situation, soit la sorcière ayant fait la prédiction vous concernant. ",
+        "choix": [
+            {
+                "text":"Chercher Catherine",
+                "nextText":"9"
+            },
+			{
+                "text":"Chercher le duc De Burger",
+                "nextText":"34"
+            }
+
+        	],
+		"image":"/images/7.jpg"
+},
+{
+        "id": "9",
+        "text":"En 1589, il est difficile de se déplacer discrètement, car dans ces petits villages dirigés par des hommes tel que le duc, tout se sait. Chaque personne donnerait n’importe quoi pour recevoir les récompenses mises sur les têtes de chaque personne recherchée par le duc. Un problème de taille arrive donc devant vos yeux, la marque de traitre qui est à présent visible sur votre bras gauche au fer rouge, visible de tous. ",
+        "choix": [
+            {
+                "text":"Camouflouer la marque avec les vetements ",
+                "nextText":"34"
+            },
+            {
+                "text":"Camouflouer la marque en la brulant pour la faire disparaître",
+                "nextText":"10"
+            },
+			{
+                "text":"Ne rien faire",
+                "nextText":"34"
+            }
+        ],
+		"image":"/images/9.jpg"
+},
+{
+		"id": "10",
+	   	"text":"Vous prenez une longue épée en métal, l’a faites chauffer dans le feu et d’un geste, une souffrance immense vous envahit, votre bras saigne et vous perdez connaissance. Malheureusement, l’hygiène étant difficile à cette époque, la plaie s’infecte et vous êtes immobiliser pendant deux jours. Mais, maintenant vous devez fuir car les chevaliers du duc ne sont plus très loin.  ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"11"
+            }
+        ],
+		"image":"/images/9.jpg"
+},
+{
+		"id": "11",
+	    "text":"Après avoir réussi à fuir, vous retournez au château du Duc, prenant des passages secrets connus uniquement par les membres de la famille du duché ainsi que le bras droit du Duc. Vous arrivez jusqu’au poste des gardes où vous avez la possibilité de vous changer.",
+        "choix": [
+            {
+                "text":"Se déguiser en garde",
+                "nextText":"12"
+            },
+            {
+                "text":"Se déguiser en domestique",
+                "nextText":"34"
+            },
+            {
+                "text":"se deguiser en marchant",
+                "nextText":"34"
+            }
+        ],
+		"image":"/images/11.jpg"
+},
+
+{
+        "id": "12",
+	    "text":"Heureusement grâce au casque que portent chaque garde, vous réussissez à vous camoufler, avançant jusqu’à la tour où sont détenu les sorcières. Vous arrivez jusqu’à leur cellule et réussissez à trouver Catherine, la sorcière.  ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"13"
+            }
+        ],
+		"image":"/images/12.jpg"
+},
+{
+        "id": "13",
+	    "text":"Catherine prédit de nouveau le meurtre que vous allez commettre, même si vous répétez que vous ne connaissez même pas cette personne du nom de Pierre. Mais vous voulez savoir qui est cet homme et pourquoi diable voudriez-vous le tuer. ",
+        "choix": [
+            {
+                "text":"Chercher Pierre ",
+                "nextText":"14"
+            },
+            {
+                "text":"Se cache dans le château ",
+                "nextText":"34"
+            }
+        ],
+		"image":"/images/12.jpg"
+},
+{
+        "id": "14",
+	    "text":"Vous partez à sa recherche accompagnée de la sorcière tout en fuyant les chevaliers envoyés par le duc De Burger et le retrouve devant une maisonnette à côté d’une falaise. La falaise de la prémonition. Vous lui demandez alors qui il est. Mais l’homme ne fait que demander pardon, il prie sans vous écouter au bord de la falaise.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"15"
+            }
+        ],
+		"image":"/images/14.jpg"
+},
+{
+        "id": "15",
+        "text":"Demandant pardon pour le viol d’une jeune fille dans un petit village que vous ne connait que trop bien. Après une longue conversation vous découvrez que cette jeune fille de laquelle il parle est : Andréa De Alciati, votre fiancée. Vous devenez fou de rage comprenant ce qui était arrivé à votre fiancée et la raison de sa disparition. Vous sortez votre épée menaçant Pierre de celle-ci.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"16"
+            }
+        ],
+		"image":"/images/15.jpg"
+},
+{
+        "id": "16",
+	    "text":"Catherine vous cri d’arrêter, que vous ne devez pas le tuer mais vous êtes fou de rage, comment pouvez-vous pardonner l’homme qui a violé votre fiancée, celui qui a gâché vos vies, brisé votre avenir avec elle. Pourrez-vous changer votre destin. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"17"
+            }
+        ],
+		"image":"/images/15.jpg"
+},
+{
+		"id": "17",
+		"text":" Mais alors que vous tentez d’arrêter Pierre, celui-ci ne l’accepte pas, il vous demande de le tuer pour le bien de sa famille, parlant d’une histoire de menace, que sa famille mourrait. Dans un élan de folie, l’homme s’embroche alors sur votre épée et tombe en arrière chutant du haut de la falaise. La prédiction de la sorcière est vraie, Pierre meurt bien de vos mains, bien que la prédiction ne parle pas du fait que ce ne soit pas un réel meurtre. Toujours est-il que, à présent Pierre est mort et votre destin vous a rattrapé.  ",
+        "choix": [
+            {
+                "text":"Fuir",
+                "nextText":"18"
+            },
+			{
+				"text":"Effacer les preuves",
+				"nextText":"34"
+			},
+			{
+				"text":"Vérifier s'il est toujours vivant",
+				"nextText":"34"
+			}
+	    ]
+},
+{
+        "id": "18",
+		"text":"Vous prenez la fuite avec Catherine. Tandis que les chevaliers du Duc arrivent enfin pour vous arrêter. Mais il est déjà trop tard.",
+        "choix": [
+            {
+				"text":"Suivant",
+                "nextText":"19"
+            } 
+        ]
+},
+{
+        "id": "19",
+		"text":"Pendant ce temps, Marcus, l’inquisiteur se rend chez le Duc afin de s’entretenir avec lui. Il a de sérieux doutes sur la culpabilité vous concernant. Il a trouvé des preuves, en fouillant, qu’une personne essaie de vous piéger, victime d’un coup monté. Pourtant, l’intelligence de Marcus se révèle être une menace pour le conspirationniste. Le jeune inquisiteur, apprend à ses dépens qu’il ne faut pas parler à la mauvaise personne, de ses doutes. Marcus qui en sait trop perd la vie.   ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"20"
+            }
+        ]
+},
+{
+        "id": "20",
+		"text":"Maintenant que vous savez que votre fiancée a été victime d’un viol et qu’elle a été écartée par sa famille, vous la savez en danger et vous vous précipitez avec Catherine à la recherche de votre bien-aimée. Vous cherchez un endroit où sa famille aurait pu la cacher. Vous confrontez donc la famille de sa fiancée qui vous apprend leur plan macabre, éliminer leur fille, maintenant qu’elle n’est plus qu’une honte pour eux. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"21"
+            }
+        ]
+},
+{
+        "id": "21",
+        "text":"Théodore et Catherine partirent la chercher aussi vite qu’ils le purent mais la famille de la jeune femme fut plus rapide, et averti les chevaliers du Duc de leur visite. Théodore se fit de nouveau attraper par les chevaliers du Duc et la sorcière retourne dans sa tour au côté des autres, de nouveau remise en captivité. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"22"
+            }
+        ]
+},
+{
+        "id": "22",
+        "text":"Tout est clair à présent dans le cerveau de Théodore. La personne qui complotait contre lui, celui qui cache le mal de ce pays, celui qui a tenté de le piéger avec ce Pierre, afin de faire diversion, celui coupable de tous ses maux n’est autre que le Duc François De Burger en personne. Celui qu’il voyait comme un ami, celui qui l’avait embauché, celui à qui il faisait confiance. Le même homme qui s’est servi de sa douleur pour se servir de lui.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"23"
+            }
+        ]
+},
+{
+        "id": "23",
+        "text":"Théodore se fait aider par des ennemis du duc, les ralliant à sa cause ainsi que tous les traîtres déjà présents à ses côtés.",
+        "choix": [
+            {
+                "text":"accepter l’aide et se retourne contre lamar",
+                "nextText":"24"
+            },
+            {
+                "text":"refuser l’aide et rester en cellule",
+                "nextText":" "
+            },
+            {
+                "text":"ne rien faire ",
+                "nextText":" "
+            }
+        ]
+},
+{
+        "id": "24",
+        "text":"Ils forment donc une alliance, un groupe assez puissant pour rivaliser avec l’armée du duc avec à la tête de cette rébellion, Théodore. Le vrai visage du duc se montre, un homme corrompu et fou.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"25"
+            }
+        ]
+},
+{
+        "id": "25",
+        "text":"Théodore et François savent qu’ils doivent se rendre des comptes, ils doivent se confronter, maintenant. Fou de rage François se jette sur Théodore tandis qu’à leurs côtés. Les sorcières prédisent la mort de John tué par le Duc. Bientôt cette prédiction se réalisera. ",
+		"choix": [
+            {
+                "text":"Suivant",
+                "nextText":"26"
+            }
+        ]
+},
+{
+		"id": "26",
+        "text":"Le Duc sort son épée et Théodore fait de même, ils se font maintenant face, il n’y a plus de temps. ",
+		"choix": [
+            {
+                "text":"Suivant",
+                "nextText":"27"
+            }
+        ]
+},
+{
+        "id": "27",
+        "text":"Deux hommes se font face, autrefois amis, autrefois camarade, autrefois du même camp. François est devenu fou, savoir le destin, il ne pouvait le supporter. Devenu paranoïaque face à des choses qu’il ne pouvait contrôler, il se jeta sur Théodore épée en main dirigée droit devant lui.",
+        "choix": [
+            {
+                "text":"essayer de le vaincre ",
+                "nextText":"28"
+            },
+            {
+                "text":"essayer de le raisonner",
+                "nextText":"56"
+            },
+            {
+                "text":"se laisser mourir",
+                "nextText":"57"
+            }
+        ]
+},
+{
+        "id": "28",
+        "text":"Mais Théodore sait se battre, il est un combattant et il ne laissera pas cet homme gagné. Pourtant Théodore perd l’équilibre et tombe, François en profite de suite. Il est au-dessus de lui, le surplombant près à lui crever les yeux de son épée dans un rire hystérique. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"29"
+            }
+		]
+},
+{
+        "id": "29",
+        "text":"Un bruit étrange se fait entendre, du sang coule le long de ses bras, l’épée en main taché de sang, François recommença, il s’acharna, deux coups, trois puis quatre, tremblant, criant de douleur il s’affaissa sur Théodore, un simple désolé sortant de ses lèvres.  ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"30"
+            }
+	    ]
+},
+{
+        "id": "30",
+        "text":"François avait retourné son épée au dernier moment, se crevant les yeux à la place, pris d’un remord soudain, d’une prise de conscience dans cet instant de folie. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"31"
+            }
+		]
+},
+{
+        "id": "31",
+        "text":"A présent François ne peut plus se cacher, les crimes qu’il avait cachés de par les pots de vins qu’il avait versé à un évêque, son lien avec la famille impérial ne lui serait plus d’aucune utilité devant la colère du pape, maintenant confronté à ses crimes, il ne pouvait qu’expier ses péchés.",
+        "choix": [
+            {
+                "text":"aider le duc",
+                "nextText":" "
+            },
+            {
+                "text":"ne rien faire",
+                "nextText":"32"
+            },
+            {
+                "text":"le tuer",
+                "nextText":" "
+            }
+        ]
+},
+{
+        "id": "32",
+        "text":"La famille d’Andréa, associé au duc s’écroula, tandis que Théodore pu revoir la femme qu’il aimait, sa fiancée, enfin. ",
+		"choix": [
+            {
+                "text":"Suivant",
+                "nextText":"33"
+            }
+    	]
+},
+{
+        "id": "33",
+        "text":"Le système mis en place fut démantelé et les sorcières de la tour brûler au buché, une seule phrase sortie de la bouche de Catherine avant que sa voix ne se transforme en cris, avant son dernier soupir. “Fuyez, fuyez simples mortels, tenter tant que vous le pouvez d’échapper à votre destin, jamais vous n’échapperez à l’œil divin”.",
+        "choix": [
+            {
+                "text":"Recommencer",
+                "nextText":"0"
+            },
+			{
+                "text":"accueil_membre",
+                "nextText":""
+            }
+    	]
+},
+{
+        "id": "34",
+		"text":"Vous vous êtes fait retrouvé. Vos anciens compagnons vous ont exécuté !",
+        "choix": [
+            {
+                "text":"Recommencer",
+                "nextText":"0"
+            }
+    	],
+		"image":"/images/34.jpg",
+		"debloque":"finA"
+},
+{
+        "id": "35",
+        "text":"vous argumentez mais vos paroles sont vaines. Par chance vous arrivez à vous échapper de votre cellule mais le château est vaste. Au détour d’un couloir plonger dans la pénombre, vous apercevez une ombre blanche. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"36"
+            }
+        ]
+},
+{
+        "id": "36",
+        "text":"Vos yeux sont attirés par le mouvement mais la peur vous envahit quand votre main transperce ce qui semble être un fantôme. Vous voulez crier, mais aucun son ne sort de votre bouche. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"37"
+            }
+        ]
+},
+{
+        "id": "37",
+        "text":"Une voix étrange ne cesse de bourdonner dans votre tête, vous demandant de la suivre. Mais que faire ? ",
+        "choix": [
+            {
+                "text":"La suivre",
+                "nextText":"38"
+            },
+            {
+                "text":"L'ignorer",
+                "nextText":"34"
+            }
+        ]
+},
+{
+        "id": "38",
+        "text":"Vous suivez la silhouette à travers les couloirs et elle vous amène à un passage secret. ",
+        "choix": [
+            {
+                "text":"se rendre chez vos parents",
+                "nextText":"6"
+            },
+            {
+                "text":"Se rendre dans la forêt",
+                "nextText":"39"
+            },
+            {
+                "text":"se cacher dans le château du duc ",
+                "nextText":"34"
+            }
+        ]
+},
+{
+        "id": "39",
+        "text":" vous fuyez dans la forêt en semant les chevaliers du duc. Vous êtes perdu dans la forêt et devant vous le chemin se sépare en deux. À gauche le chemin mène vers le cœur de la forêt, à droite la brume envahit tout et on ne voit rien. ",
+        "choix": [
+            {
+                "text":"À droite",
+                "nextText":"58"
+            },
+            {
+                "text":"À gauche",
+                "nextText":"40"
+            }
+        ]
+},
+{
+        "id": "40",
+        "text":"vous avancez sur le chemin et devant vous se tiens une femme vêtue de vêtements étranges. Vous sentez une aura émaner d’elle comme si elle n’appartenait pas à ce monde. Vôtre instinct vous dit qu’elle peut vous aider.  ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"41"
+            }
+        ]
+},
+{
+        "id": "41",
+        "text":"Elle vous fixe et voit dans vos yeux la peur, la rage, la tristesse ainsi que la marque du traitre sur votre bras. Elle n’essaie pas d’en savoir plus et part dans la direction opposer. Vous la suivez. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"42"
+            }
+        ]
+},
+{
+        "id": "42",
+        "text":"Elle se retourne de temps en temps pour voir si vous la suiviez toujours. Quelques minutes plus tard, vous arrivez devant une cabane qui semble être sa maison. Elle entre dans la maison et ferme la porte. ",
+        "choix": [
+            {
+                "text":"Attendre",
+                "nextText":"43"
+            },
+            {
+                "text":"Partir",
+                "nextText":"34"
+            }
+        ]
+},
+{
+        "id": "43",
+        "text":"Vous ne savez pas pourquoi vous attentez mais vous savez que vous devez rester avec cette étrange femme qui n’a pas été surpris et effrayer par votre arrivé dans cette forêt. Après de longues heures d’attente, elle ouvre la porte et vous demande la raison pour laquelle vous attendez devant sa maison.",
+        "choix": [
+            {
+                "text":"Je ne sais pas ",
+                "nextText":""
+            },
+            {
+                "text": "J’ai besoin de votre aide",
+                "nextText":"8"
+            },
+            {
+                "text":"La menace de vous aider ",
+                "nextText":"44"
+            }
+        ]
+},
+{
+        "id": "44",
+        "text":"L’étrange femme s’énerve et vous jette un sort. Une lumière vous éblouis et vous vous sentez voler. Après la disparition de cette lumière, vous ouvrez les yeux et vous voyez cette étrange femme. Avant d’avoir eu le temps de la questionner sur ce qui vient de se passer, elle se précipite vers vous et vous demande si tout allait bien. Vous la fixer en étant stupéfait. Elle vous conduit sans sa maison et vous sert à du thé tout en vous posant des questions.      ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"45"
+            }
+        ]
+},
+{
+        "id": "45",
+        "text":"La femme étrange : « Théodore, que faite-vous là ? Je ne pensais pas vous revoir surtout après ce qui s’est passé… »    ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"46"
+            }
+        ]
+},
+{
+        "id": "46",
+        "text":"  Vous : « … »  ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"47"
+            }
+        ]
+},
+{
+        "id": "47",
+        "text":"La femme étrange : « Etes-vous blessé à la tete ? Vous ne parlez pas beaucoup… »",
+        "choix": [
+            {
+                "text":"Ne rien dire",
+                "nextText":"50"
+            },
+            {
+                "text":"Oui",
+                "nextText":"50"
+            },
+            {
+                "text":"Je ne m'en rappelle plus ",
+                "nextText":"48"
+            }
+        ]
+},
+{
+        "id": "48",
+        "text":"La femme vous examine et vous questionne : « vous souvenez vous de suis-je ? »  ",
+        "choix": [
+            {
+                "text":"Oui",
+                "nextText":"52"
+            },
+            {
+                "text":"Non",
+                "nextText":"49"
+            }
+        ]
+},
+{
+        "id": "49",
+        "text":"La femme étrange : « Ce n’est pas grave… Je m’appelle Roxanne De La Rose. On m’appelle aussi docteur De La Rose ou encore, la sorcière. Je suis vôtre alliée. Je suppose que vous ne vous souvenez pas non plus de ce qu’il s’est passé. Pour commencer, vous êtes le bras droit du duc François De Burger. Vous commandez son ordre de chevalerie. Un oracle a été annoncé dont vous êtes l’objet : Vous allez tuer un certain Pierre et de se rebeller contre le duc. Cet oracle s’est révélé vrai et tout au long, vous avez été aidé par un fantôme. ",
+        "choix": [
+            {
+                "text":"Qui est le fantôme?",
+                "nextText":"53"
+            },
+            {
+                "text":"Que s'est-il passé ensuite?",
+                "nextText":"54"
+            },
+            {
+                "text":"François...",
+                "nextText":"55"
+            }
+        ]
+},
+{
+        "id": "50",
+        "text":"la femme se méfie de vous, et remarque la marque du traitre sur votre bras. Elle vous lance un sort et tout parait blanc, éblouissant. Vous vous sentez à nouveau voler. Lorsque vous rouvrez vos yeux, vous vous retrouvez devant cette étrange femme. Vous la saisissez du bras et la questionne sur ce qui s’est passé. Elle vous demande de la lâcher en vous menaçant : « Vous venez d’être transporter dans un monde parallèle, si vous ne voulez pas repartir, lâchez ma main. »",
+        "choix": [
+            {
+                "text":"La lâcher",
+                "nextText":"51"
+            },
+            {
+                "text":"Ne rien faire",
+                "nextText":"34"
+            }
+        ]
+},
+{
+        "id": "51",
+        "text":"La femme vous fixe",
+        "choix": [
+            {
+                "text":"J’ai besoin de votre aide ",
+                "nextText":"8"
+            },
+            {
+                "text":"Partir",
+                "nextText":"34"
+            }
+        ]
+},
+{
+        "id": "52",
+        "text":"La femme vous examine et ne trouve aucune blessure.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"50"
+            }
+        ]
+},
+{
+        "id": "53",
+        "text":"C’est Catherine, la sorcière qui a réalisé l’oracle vous concernant. ",
+        "choix": [
+            {
+                "text":"Que s’est-il passé ensuite ?",
+                "nextText":"54"
+            },
+            {
+                "text":"François...",
+                "nextText":"55"
+            }
+        ]
+},
+{
+        "id": "54",
+        "text":"Que s’est-il passé ensuite?",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"50"
+            }
+        ]
+},
+{
+        "id": "55",
+        "text":"Oui... c’est malheureux qu’il soit devenu fou.",
+        "choix": [
+            {
+                "text":"Que s’est-il passé ensuite ?",
+                "nextText":"54"
+            },
+            {
+                "text":"Qui est le fantôme?",
+                "nextText":"53"
+            }
+        ]
+},
+{
+        "id": "56",
+        "text":" François ignore vos paroles et vous perce le cœur avec son épée. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"57"
+            }
+        ]
+},
+{
+        "id": "57",
+        "text":"Vous vous réveillez soudainement avec des sueurs froides. Il fait nuit noire. Ce n’était qu’un rêve, vous avez fait un mauvais cauchemar.... ",
+        "choix": [
+            {
+                "text":"Recommencer",
+                "nextText":"0"
+            },
+            {
+                "text":"",
+                "nextText":""
+            }
+        ]
+},
+{
+        "id": "58",
+        "text":"vous avancez à travers la brume quand une silhouette apparaît de nouveau devant vous, elle semble vous guider jusqu’à une immense clairière. Devant vous se tiens une femme vêtue de vêtements étranges. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"59"
+            }
+        ]
+},
+{
+        "id": "59",
+        "text":"Elle ne vous regarde pas mais vous savez que cette femme est étrange, elle dégage quelque chose de surnaturel. Ses yeux vous transpercent comme si elle pouvait lire en vous comme d’un livre ouvert. ",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"60"
+            }
+        ]
+},
+{
+        "id": "60",
+        "text":"Vous essayez de communiquer mais elle ne semble pas vous entendre. Elle ne bouge pas restant debout au milieu de la clairière mais vous n’êtes pas du même avis. Elle commence à parler d’’une voix sombre et forte : “Vous êtes celui qui sauvera ce monde d’une guerre, mais pour cela vous marcherez sur de nombreuses personnes.” ",
+        "choix": [
+            {
+                "text":"La mordre",
+                "nextText":"61"
+            },
+            {
+                "text":"L'écouter ",
+                "nextText":"62"
+            }
+        ]
+},
+{
+        "id": "61",
+        "text":"êtes-vous un animal?",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"62"
+            }
+        ]
+},
+{
+        "id": "62",
+        "text":"Elle vous parle d’un avenir proche dans lequel vous pourrez vous vengez du duc ! Pour cela vous devez trouver des alliés. Alors que vous vous faites arrêter un homme vous sauve. C'est le chef de l’armée rebelle qui vous propose une collaboration.",
+        "choix": [
+            {
+                "text":"Suivant",
+                "nextText":"23"
+            }
+        ]
+}
+]
+
+
+                                              

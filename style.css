@@ -1,0 +1,55 @@
+*, *::before, *::after { 
+  box-sizing: border-box;
+  font-family: Gotham Rounded;
+}
+
+body {
+	background:#202020;
+	border-bottom-style: solid;
+ 	display: flex;
+  	justify-content: space-around;
+  	width: 99vw;
+	flex-direction:column;
+	height: 95vh;
+}
+
+.container {
+	font-size: 1.3rem;
+	color: white;
+	padding: 30px;
+  	border-radius: 10px;
+  	box-shadow: 0 0 30px 3px;
+  	width: 100%;
+	position: relative;
+	min-height: 30%;
+}
+
+.image {
+	height: 70%;
+	object-fit: cover;
+}
+
+.btn-grid {
+	color:#000000;
+	background:#959595;
+	border-style: solid;
+	border-width: 2px;
+	box-shadow: 3px 3px 0px #000000;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.btn {
+ color: darkred;
+}
+
+.btn:hover {
+  background-color: transparent;
+				color: black;
+}
+
+a {
+	margin-right: 16px;
+}
+
+
