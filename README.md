@@ -8,6 +8,9 @@ En quête de la vérité sur les sorcières après une rencontre avec l’une d�
 Setup
 
 git clone https://github.com/clementye/Clyc.git/
+
 cd clyc
+
 npm install nunjucks
+
 node index.js
