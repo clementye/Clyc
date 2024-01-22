@@ -5,7 +5,7 @@ Plongez-vous dans le passé. Vous incarnez ici le charismatique capitaine John A
 En quête de la vérité sur les sorcières après une rencontre avec l’une d’elle, Agatha. Vous revivrez les moments fantastiques du film et même des scènes inédites, essayez des combinaisons afin de trouver toutes les fins possibles du jeux.
 
 
-Setup
+SETUP :
 
 git clone https://github.com/clementye/Clyc.git/
 
